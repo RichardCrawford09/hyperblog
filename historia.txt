@@ -1,5 +1,7 @@
 Esta es mi historia
 
-Llevo mucho tiempo tratando de aprender desarrollo web
+Llevo mucho tiempo tratando de aprender desarrollo web.
+
+Me gusta mucho ese tema y data sciences.
 
 No quiero desfallecer en el intento
